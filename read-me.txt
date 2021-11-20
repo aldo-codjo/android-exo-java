@@ -1,0 +1,5 @@
+
+Creer une classe abstraite membre de gang
+Creer des classes filles de membre de gang
+Heritage entre member et etudiant,ripoux,tolard
+interface implements mobile à ripoux
